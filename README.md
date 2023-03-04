@@ -10,3 +10,11 @@ Fans can build their Melomaniac credit score by frequently attending concerts, s
 Melomaniac also allows individuals who have never attended an artist's live show to increase their interactions on music platforms like Spotify, Soundcloud, and Instagram, creating a marketing campaign for the artists and boosting interactions across multiple platforms. As a result, every fan now becomes a promoter.
 
 In summary, Melomaniac is an innovative solution that aims to work alongside current web 2 and web 3 ticketing platforms, providing data and value to artists instead of competing in the oversaturated ticketing space.
+
+
+## Walk-through Demo
+[Submission Demo](#)
+
+## Tech Demo Using Webflow
+[Tech Demo](https://drive.google.com/file/d/1NgOeKZDZwPeyYWRatTAF4mLHLkSQzZpt/view?usp=share_link)
+
