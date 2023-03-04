@@ -11,6 +11,8 @@ Melomaniac also allows individuals who have never attended an artist's live show
 
 In summary, Melomaniac is an innovative solution that aims to work alongside current web 2 and web 3 ticketing platforms, providing data and value to artists instead of competing in the oversaturated ticketing space.
 
+## Presentation (Google Slides)
+[Presentation](https://docs.google.com/presentation/d/1rPPaBL1W1hwp_h-TpIoY6pJ1zAMihNrPFnideTKLOrk/edit?usp=sharing)
 
 ## Walk-through Demo
 [Submission Demo](#)
