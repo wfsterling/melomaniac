@@ -1,4 +1,6 @@
 # melomaniac
+
+## Project Description
 A music-based community that provides buying power for high-value limited quantity items through attestation of music fandom.
 
 The music industry often faces the problem of scalpers who take advantage of high-value collectible items, such as concert tickets. This causes super fans or "Melomaniacs" to purchase tickets from secondary markets. Artists have attempted to eliminate secondary markets through various solutions, including posting generic presale codes on social media, allocating tickets through a lottery system, and sending presale codes through fanbase newsletters. Unfortunately, these solutions are easily exploited by scalpers.
@@ -23,3 +25,16 @@ In summary, Melomaniac is an innovative solution that aims to work alongside cur
 ## Tech Demo Using Webflow
 [Tech Video Demo](https://drive.google.com/file/d/1NgOeKZDZwPeyYWRatTAF4mLHLkSQzZpt/view?usp=share_link)
 
+# Usage
+Clone repository to local directory:
+```sh
+git clone https://github.com/wfsterling/melomaniac.git
+```
+
+## Install dependencies
+Install Live Server as an extension in Visual Studio Code
+
+## Running locally
+- Navigate to the `melomaniac` directory folder and select the `index.html` file
+- Open Live Server by right clicking `index.html` and selecting "Open with Live Server"
+- The application should open a new or window within your default browser
