@@ -20,7 +20,7 @@ In summary, Melomaniac is an innovative solution that aims to work alongside cur
 [https://nftmarketdemo.webflow.io](https://nftmarketdemo.webflow.io/)
 
 ## Walk-through Demo
-[Video Demo](#)
+[Video Demo](https://drive.google.com/file/d/1ZNdKmE-1BFmJkcve8ESC66rkq0W_taGg/view?usp=share_link)
 
 ## Tech Demo Using Webflow
 [Tech Video Demo](https://drive.google.com/file/d/1NgOeKZDZwPeyYWRatTAF4mLHLkSQzZpt/view?usp=share_link)
